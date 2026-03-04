@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ARASHI - マイガール [Official Music Video]",
+  "base_artist": "ARASHI",
+  "createdAt": "2026-03-04T14:32:20.075855Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Arashi",
+      "artist": "Arashi",
+      "has_synced": true,
+      "path": "select/01_Arashi_Arashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hanani Arashi",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/02_Hanani_Arashi_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Koi No Arashi",
+      "artist": "Mariya Takeuchi",
+      "has_synced": false,
+      "path": "select/03_Koi_No_Arashi_Mariya_Takeuchi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Koi No Arashi",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/04_Koi_No_Arashi_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Arashi No Megami [嵐の女神]",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/05_Arashi_No_Megami_[嵐の女神]_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Arashi no Naka de Kagayaite [嵐の中で輝いて]",
+      "artist": "Chihiro Yonekura",
+      "has_synced": true,
+      "path": "select/06_Arashi_no_Naka_de_Kagayaite_[嵐の中で輝いて]_Chihiro_Yonekura.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Arashi No Yoru Ni Wa - Pada Malam Yang Berbadai",
+      "artist": "JKT48",
+      "has_synced": true,
+      "path": "select/07_Arashi_No_Yoru_Ni_Wa_-_Pada_Malam_Yang_Berbadai_JKT48.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "October Storm ~Juugatsu no Arashi~",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/08_October_Storm_~Juugatsu_no_Arashi~_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Arashi No Mae No Shizukesa",
+      "artist": "ARASHI",
+      "has_synced": true,
+      "path": "select/09_Arashi_No_Mae_No_Shizukesa_ARASHI.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Theme of ARASHI",
+      "artist": "ARASHI",
+      "has_synced": true,
+      "path": "select/10_Theme_of_ARASHI_ARASHI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Arashi no Sugao - Night Tempo Showa Groove Mix",
+      "artist": "Night Tempo feat. Shizuka Kudo",
+      "has_synced": true,
+      "path": "select/11_Arashi_no_Sugao_-_Night_Tempo_Showa_Groove_Mix_Night_Tempo_feat._Shizuka_Kudo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Arashi no Sugao (Night Tempo Showa Groove Mix)",
+      "artist": "Night Tempo & Shizuka Kudo",
+      "has_synced": true,
+      "path": "select/12_Arashi_no_Sugao_(Night_Tempo_Showa_Groove_Mix)_Night_Tempo_&_Shizuka_Kudo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Arashi No Atode",
+      "artist": "Galileo Galilei",
+      "has_synced": true,
+      "path": "select/13_Arashi_No_Atode_Galileo_Galilei.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Koi No Arashi",
+      "artist": "竹内まりや",
+      "has_synced": true,
+      "path": "select/14_Koi_No_Arashi_竹内まりや.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Arashi no Megami",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/15_Arashi_no_Megami_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Arashi no Naka de Kimi Dake wa",
+      "artist": "Yoshino Nanjo feat. yanaginagi",
+      "has_synced": true,
+      "path": "select/16_Arashi_no_Naka_de_Kimi_Dake_wa_Yoshino_Nanjo_feat._yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Arashi no Naka de Kimi Dake wa <instrumental>",
+      "artist": "Yoshino Nanjo feat. yanaginagi",
+      "has_synced": true,
+      "path": "select/17_Arashi_no_Naka_de_Kimi_Dake_wa__instrumental_Yoshino_Nanjo_feat._yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Arashi no Naka de Kimidake wa",
+      "artist": "Nanjou Yoshino",
+      "has_synced": true,
+      "path": "select/18_Arashi_no_Naka_de_Kimidake_wa_Nanjou_Yoshino.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マイガール",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_マイガール_嵐.txt"
+    }
+  ]
+}
